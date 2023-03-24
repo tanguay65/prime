@@ -1,6 +1,7 @@
 # Program to check if a number is prime or not
+# From https://www.programiz.com/python-programming/examples/prime-number
 
-num = 29
+num = 31
 
 # To take input from the user
 #num = int(input("Enter a number: "))
